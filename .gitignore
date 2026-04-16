@@ -1,0 +1,17 @@
+# MATLAB / Octave
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+helpsearch*/
+*.autosave
+*.slxc
+octave-workspace
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Large data files (uncomment if you don't want to commit .mat files)
+# *.mat
