@@ -1,3 +1,6 @@
+# barycentric-nonlinear-fitting
+Barycentric rational fitting for nonlinear vibration decay analysis
+
 # Barycentric Rational Fitting for Nonlinear Vibration Decay
 
 MATLAB implementation of barycentric rational interpolation with greedy 
