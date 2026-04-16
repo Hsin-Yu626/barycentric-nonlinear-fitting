@@ -1,5 +1,3 @@
-# barycentric-nonlinear-fitting
-Barycentric rational fitting for nonlinear vibration decay analysis
 # Barycentric Rational Fitting for Nonlinear Vibration Decay
 
 MATLAB implementation of barycentric rational interpolation with greedy 
@@ -37,44 +35,12 @@ barycentric rational interpolation on the complex plane.
 
 ## References
 
-@misc{goyder2023decay,
-  author       = {Goyder, Hugh},
-  title        = {Determining differential equations from measured 
-                  decay responses for nonlinear systems},
-  howpublished = {Presentation notes, Tribomechadynamics 2023},
-  year         = {2023},
-  institution  = {Cranfield University},
-  note         = {Rice University, August 2023}
-}
-
-@misc{goyder2023forbidden,
-  author       = {Goyder, Hugh},
-  title        = {Exploring nonlinear systems on the complex plane 
-                  by looking into the forbidden zone},
-  howpublished = {Presentation notes, Tribomechadynamics 2023},
-  year         = {2023},
-  institution  = {Cranfield University},
-  note         = {Rice University, August 2023}
-}
-
-@article{berrut2004barycentric,
-  author  = {Berrut, Jean-Paul and Trefethen, Lloyd N.},
-  title   = {Barycentric {L}agrange Interpolation},
-  journal = {SIAM Review},
-  volume  = {46},
-  number  = {3},
-  pages   = {501--517},
-  year    = {2004},
-  doi     = {10.1137/S0036144502417715}
-}
-
-@inproceedings{goyder2018extracting,
-  author    = {Goyder, H. G. D. and Lancereau, D. P. T.},
-  title     = {Extracting natural frequencies and damping from time 
-               histories. Better than the frequency domain?},
-  booktitle = {Proceedings of ISMA 2018},
-  year      = {2018}
-}
+- Goyder, H. (2023). *Determining differential equations from measured decay 
+  responses for nonlinear systems.* Tribomechadynamics 2023, Rice University.
+- Goyder, H. (2023). *Exploring nonlinear systems on the complex plane by 
+  looking into the forbidden zone.* Tribomechadynamics 2023, Rice University.
+- Berrut, J.-P., & Trefethen, L. N. (2004). Barycentric Lagrange Interpolation. 
+  *SIAM Review*, 46(3), 501–517.
 
 ## License
 
